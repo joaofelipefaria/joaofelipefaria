@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joaofelipefaria
+- 👀 I’m interested in JAVA, Web, SOA and BPM
+- 🌱 I’m currently learning Angular and React
+- 📫 Reach me at www.joaofaria.lu
