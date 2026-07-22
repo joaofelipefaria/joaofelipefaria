@@ -287,13 +287,13 @@ https://github.com/joaofelipefaria/ai-projects
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaofelipefaria&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipefaria&layout=compact&theme=transparent)
 
 ---
 
 # 🔥 Contribution Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaofelipefaria&theme=transparent)
 
 ---
 
