@@ -106,7 +106,9 @@ Experience with:
   - RDS
   - S3
 
+- Oracle Cloud (OCI)
 - Azure Cloud concepts
+- Google Cloud concepts
 
 ## Infrastructure
 
@@ -150,17 +152,14 @@ Knowledge in:
 
 # 🤖 Artificial Intelligence & AI Engineering
 
-Experience designing and integrating AI capabilities into enterprise software solutions.
+Designing and integrating AI capabilities into enterprise software solutions.
 
-Areas of expertise:
+Areas of interest:
 
 - Large Language Models (LLMs)
 - Retrieval Augmented Generation (RAG)
-- AI-powered applications
 - Embeddings
 - Vector databases
-- Semantic search
-- AI integration patterns
 - Spring AI
 - FastAPI AI services
 
@@ -235,7 +234,7 @@ https://github.com/YOUR_USERNAME/java-examples
 
 ## 🗺️ MapData Platform
 
-Enterprise platform combining backend architecture and modern technologies.
+A sandbox for a Full Stack Developer with Dockerized projects 
 
 Technology stack:
 
@@ -244,6 +243,8 @@ Technology stack:
 - FastAPI
 - PostgreSQL
 - Docker
+- Python
+- Flutter
 
 Focus:
 
