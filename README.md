@@ -21,6 +21,7 @@ My career has been focused on designing and delivering **mission-critical enterp
 
 - Banking
 - Financial Services
+- Telecom
 - Healthcare
 - Enterprise Platforms
 
