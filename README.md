@@ -280,21 +280,6 @@ Repository:
 
 https://github.com/joaofelipefaria/ai-projects
 
-
----
-
-# 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaofelipefaria&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipefaria&layout=compact&theme=transparent)
-
----
-
-# 🔥 Contribution Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaofelipefaria&theme=transparent)
-
 ---
 
 # 🏆 Certifications
