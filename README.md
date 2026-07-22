@@ -1,12 +1,15 @@
 # 👋 Hello, I'm João Faria
 
-## Senior Software Architect | Lead Software Engineer | Java | Cloud | AI Solutions
+## Enterprise Architect | Lead Software Engineer | Java | Spring Boot | Python | Angular | Middleware
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green?style=for-the-badge&logo=springboot)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python)
+![Angular](https://img.shields.io/badge/Angular-TypeScript-red?style=for-the-badge&logo=angular)
+![TOGAF](https://img.shields.io/badge/TOGAF-Enterprise%20Architecture-purple?style=for-the-badge)
+![BPM](https://img.shields.io/badge/BPM-Business%20Process%20Management-yellow?style=for-the-badge)
+![Enterprise Architecture](https://img.shields.io/badge/Enterprise-Architecture-black?style=for-the-badge)
+![Middleware](https://img.shields.io/badge/Middleware-Integration-blue?style=for-the-badge)
 
 ---
 
