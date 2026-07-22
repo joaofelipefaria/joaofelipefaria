@@ -227,7 +227,7 @@ Topics:
 
 Repository:
 
-https://github.com/YOUR_USERNAME/java-examples
+https://github.com/joaofelipefaria/java-examples
 
 
 ---
@@ -255,7 +255,7 @@ Focus:
 
 Repository:
 
-https://github.com/YOUR_USERNAME/mapdata
+https://github.com/joaofelipefaria/mapdata
 
 
 ---
@@ -278,14 +278,14 @@ Exploring practical applications of Generative AI in enterprise environments.
 
 Repository:
 
-https://github.com/YOUR_USERNAME/ai-projects
+https://github.com/joaofelipefaria/ai-projects
 
 
 ---
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaofelipefaria&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
 
