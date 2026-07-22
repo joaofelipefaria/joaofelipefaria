@@ -1,6 +1,6 @@
 # 👋 Hello, I'm João Faria
 
-## Enterprise Architect | Lead Software Engineer | Java | Spring Boot | Python | Angular | Middleware
+## Enterprise Architect | Lead Software Engineer | Java | Spring Boot | Python | Angular | BPM | TOGAF | Middleware
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green?style=for-the-badge&logo=springboot)
@@ -86,8 +86,6 @@ Experience with:
 - Messaging systems
 - Event driven architecture
 - Asynchronous processing
-- Saga Pattern
-- Resilience patterns
 - Enterprise integration
 - API gateways
 
@@ -100,11 +98,13 @@ Experience with:
 Experience with:
 
 - AWS
+  - EC2
   - Lambda
-  - SQS
-  - SNS
+  - EKS
+  - EBS
   - RDS
-  - S3
+  - Aurora
+  - DynamoDB
 
 - Oracle Cloud (OCI)
 - Azure Cloud concepts
@@ -115,12 +115,10 @@ Experience with:
 Experience with:
 
 - Docker
-- Docker Compose
 - Kubernetes
 - OpenShift
 - Terraform
 - CI/CD pipelines
-- Cloud Native deployments
 
 ---
 
@@ -133,12 +131,14 @@ Experience with:
 - PostgreSQL
 - Oracle Database
 - DB2
+- Others...
 
 ## NoSQL
 
 Experience with:
 
 - MongoDB
+- DynamoDB
 
 ## Data Engineering
 
@@ -147,6 +147,8 @@ Knowledge in:
 - Data modeling
 - Performance optimization
 - Enterprise data integration
+- SQL
+- NoSQL
 
 ---
 
@@ -182,7 +184,7 @@ Although my main focus is backend and architecture, I also have experience with:
 
 - Angular
 - TypeScript
-- HTML5
+- HTML
 - CSS
 - Flutter
 
