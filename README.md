@@ -65,7 +65,7 @@ Main technology stack:
 - JDBC
 - Quarkus
 - Maven
-- Gradle
+- Many others...
 
 Experience building:
 
