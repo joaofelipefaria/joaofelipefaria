@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python)
 ![Angular](https://img.shields.io/badge/Angular-TypeScript-red?style=for-the-badge&logo=angular)
 ![TOGAF](https://img.shields.io/badge/TOGAF-Enterprise%20Architecture-purple?style=for-the-badge)
-![BPM](https://img.shields.io/badge/BPM-Business%20Process%20Management-yellow?style=for-the-badge)
+![BPM](https://img.shields.io/badge/BPM-And%20SOA-yellow?style=for-the-badge)
 ![Enterprise Architecture](https://img.shields.io/badge/Enterprise-Architecture-black?style=for-the-badge)
 ![Middleware](https://img.shields.io/badge/Middleware-Integration-blue?style=for-the-badge)
 
