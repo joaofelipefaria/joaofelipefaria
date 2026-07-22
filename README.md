@@ -1,67 +1,56 @@
 # 👋 Hello, I'm João Faria
 
-## Senior Software Architect | Lead Software Engineer | AI & Cloud Solutions
+## Senior Software Architect | Lead Software Engineer | Java | Cloud | AI Solutions
 
-🏗️ Building enterprise-grade software solutions for more than **25 years**  
-☕ Specialized in **Java ecosystem, Spring Boot and distributed systems**  
-☁️ Experienced with **Cloud Architecture, Microservices and AI Engineering**  
-🌍 International experience across **Europe and Brazil**
+![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green?style=for-the-badge&logo=springboot)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
 
 ---
 
 # 🚀 About Me
 
-I am a **Software Architect and Technical Leader** with over **25 years of experience in Information Technology**, including the last **10 years working in architecture and leadership roles**.
+I am a **Senior Software Architect and Technical Leader** with more than **25 years of experience in Information Technology**, including the last **10 years working in architecture and leadership roles**.
 
-Throughout my career, I have designed and delivered mission-critical systems, mainly in the **banking, insurance, healthcare and enterprise sectors**.
+My career has been focused on designing and delivering **mission-critical enterprise systems**, mainly in:
 
-My expertise combines:
+- Banking
+- Financial Services
+- Healthcare
+- Enterprise Platforms
 
-- Enterprise Software Architecture
-- Distributed Systems
-- Microservices Architecture
-- Cloud-Native Solutions
-- AI Engineering and LLM Applications
-- Technical Leadership
-- Software Modernization
+My main expertise is the **Java ecosystem**, backend engineering, distributed systems and software architecture.
 
-I have worked with multicultural teams in **Luxembourg, Europe and Brazil**, delivering solutions in highly regulated environments.
+I specialize in designing scalable, secure and maintainable solutions using modern architecture principles.
+
+I have international experience working with multicultural teams in **Europe and Brazil**, delivering solutions for complex enterprise environments.
 
 ---
 
-# 🏛️ Architecture Expertise
+# 🏛️ Software Architecture
 
-## Enterprise Architecture
+Architecture experience:
 
 - Solution Architecture
+- Enterprise Architecture
 - Domain Driven Design (DDD)
 - Clean Architecture
 - Hexagonal Architecture
 - C4 Model
 - TOGAF
-- SOA / Microservices
+- Microservices Architecture
 - API Design
 - Event Driven Architecture
-
-## Distributed Systems
-
-- Microservices
-- REST APIs
-- Messaging Systems
-- Kafka
-- Asynchronous Processing
-- Resilience Patterns
-- Saga Pattern
-- Observability
+- System Integration
+- Cloud Native Architecture
 
 ---
 
 # ☕ Java Ecosystem
 
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green?style=for-the-badge&logo=springboot)
-
-Main technologies:
+Main technology stack:
 
 - Java 8 / 11 / 17 / 21
 - Spring Boot
@@ -71,36 +60,273 @@ Main technologies:
 - JPA / Hibernate
 - JDBC
 - Quarkus
-- Maven / Gradle
+- Maven
+- Gradle
 
-Experience:
-- Backend platforms
-- High availability systems
-- Banking applications
-- Enterprise integration
-- Large-scale APIs
+Experience building:
+
+- Enterprise applications
+- Banking platforms
+- Distributed systems
+- High availability APIs
+- Backend services
+- Integration platforms
 
 ---
 
-# 🤖 Artificial Intelligence & LLM Engineering
+# 🔄 Distributed Systems & Integration
 
-Currently focused on building AI-powered applications:
+Experience with:
 
-## Generative AI
+- REST APIs
+- Kafka
+- Messaging systems
+- Event driven architecture
+- Asynchronous processing
+- Saga Pattern
+- Resilience patterns
+- Enterprise integration
+- API gateways
+
+---
+
+# ☁️ Cloud & DevOps
+
+## Cloud Platforms
+
+Experience with:
+
+- AWS
+  - Lambda
+  - SQS
+  - SNS
+  - RDS
+  - S3
+
+- Azure Cloud concepts
+
+## Infrastructure
+
+Experience with:
+
+- Docker
+- Docker Compose
+- Kubernetes
+- OpenShift
+- Terraform
+- CI/CD pipelines
+- Cloud Native deployments
+
+---
+
+# 🗄️ Databases
+
+## Relational Databases
+
+Experience with:
+
+- PostgreSQL
+- Oracle Database
+- DB2
+
+## NoSQL
+
+Experience with:
+
+- MongoDB
+
+## Data Engineering
+
+Knowledge in:
+
+- Data modeling
+- Performance optimization
+- Enterprise data integration
+
+---
+
+# 🤖 Artificial Intelligence & AI Engineering
+
+Experience designing and integrating AI capabilities into enterprise software solutions.
+
+Areas of expertise:
 
 - Large Language Models (LLMs)
 - Retrieval Augmented Generation (RAG)
-- Prompt Engineering
-- AI Agents
-- Vector Databases
+- AI-powered applications
 - Embeddings
-- LLM Application Architecture
-
-## AI Stack
-
+- Vector databases
+- Semantic search
+- AI integration patterns
 - Spring AI
+- FastAPI AI services
+
+Focus:
+
+Applying Artificial Intelligence to improve enterprise systems, knowledge management, automation and developer productivity.
+
+AI solutions are combined with my background in:
+
+- Enterprise Architecture
+- Backend Engineering
+- Distributed Systems
+- Cloud Native Applications
+
+---
+
+# 🎨 Frontend Experience
+
+Although my main focus is backend and architecture, I also have experience with:
+
+- Angular
+- TypeScript
+- HTML5
+- CSS
+- Flutter
+
+---
+
+# 🌍 International Experience
+
+🇱🇺 Luxembourg  
+🇪🇺 European Projects  
+🇧🇷 Brazil  
+
+Experience working with:
+
+- International teams
+- Agile environments
+- Enterprise customers
+- Highly regulated industries
+
+Languages:
+
+- Portuguese
+- English
+- French
+- German (basic)
+
+---
+
+# 📌 Featured Projects
+
+## ☕ Java Architecture Examples
+
+Repository focused on Java development practices and architecture examples.
+
+Topics:
+
+- Modern Java features
+- Object-oriented programming
+- Design patterns
+- Spring Boot examples
+- Backend best practices
+- Architecture concepts
+
+Repository:
+
+https://github.com/YOUR_USERNAME/java-examples
+
+
+---
+
+## 🗺️ MapData Platform
+
+Enterprise platform combining backend architecture and modern technologies.
+
+Technology stack:
+
+- Angular
+- Spring Boot
 - FastAPI
-- Python
-- PostgreSQL + pgvector
-- Ollama
-- OpenAI-compatible APIs
+- PostgreSQL
+- Docker
+
+Focus:
+
+- Backend architecture
+- Data management
+- Enterprise application design
+- API development
+
+Repository:
+
+https://github.com/YOUR_USERNAME/mapdata
+
+
+---
+
+## 🤖 AI Engineering Projects
+
+Repository containing AI-powered application examples and architecture experiments.
+
+Topics:
+
+- LLM integration
+- RAG architectures
+- Vector databases
+- AI services with Python and FastAPI
+- Spring AI integrations
+
+Focus:
+
+Exploring practical applications of Generative AI in enterprise environments.
+
+Repository:
+
+https://github.com/YOUR_USERNAME/ai-projects
+
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+
+---
+
+# 🔥 Contribution Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent)
+
+---
+
+# 🏆 Certifications
+
+Oracle Certifications:
+
+- Oracle Certified Professional Java
+- Oracle Java Architect
+- Oracle Web Technologies
+- Oracle SOA
+- Oracle BPM
+- Oracle Business Components
+
+---
+
+# 📫 Let's Connect
+
+LinkedIn:
+
+https://www.linkedin.com/in/joao-felipe-d-assencao-faria-98197941/
+
+
+Email:
+
+jfelipe.web@gmail.com
+
+
+---
+
+# ⭐ Areas of Interest
+
+- Software Architecture
+- Java Ecosystem
+- Cloud Native Applications
+- Distributed Systems
+- Enterprise Software Engineering
+- Artificial Intelligence Engineering
+- Generative AI Applications
+- Technical Leadership
