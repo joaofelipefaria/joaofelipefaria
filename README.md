@@ -104,5 +104,3 @@ Currently focused on building AI-powered applications:
 - PostgreSQL + pgvector
 - Ollama
 - OpenAI-compatible APIs
-
-Example architecture:
