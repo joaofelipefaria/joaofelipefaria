@@ -19,8 +19,7 @@ I am a **Senior Software Architect and Technical Leader** with more than **25 ye
 
 My career has been focused on designing and delivering **mission-critical enterprise systems**, mainly in:
 
-- Banking
-- Financial Services
+- Banking & Financial Services
 - Telecom
 - Healthcare
 - Enterprise Platforms
