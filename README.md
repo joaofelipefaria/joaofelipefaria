@@ -163,7 +163,6 @@ Areas of interest:
 - Embeddings
 - Vector databases
 - Spring AI
-- FastAPI AI services
 
 Focus:
 
