@@ -280,7 +280,7 @@ Exploring practical applications of Generative AI in enterprise environments.
 
 Repository:
 
-https://github.com/joaofelipefaria/ai-projects
+https://github.com/joaofelipefaria/ai
 
 ---
 
